@@ -1,0 +1,9 @@
+project_directory/
+    ├── src/
+    │   └── main.py
+    ├── docker/
+    │   ├── nginx/
+    │   │   └── nginx.conf
+    │   └── php/
+    │       └── php.ini
+    └── README.md
